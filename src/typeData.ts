@@ -10,3 +10,10 @@ umur = 17
 let isMarried: boolean;
 isMarried = true
 isMarried = false
+
+// any -> tipe data any bisa digunakan untuk jenis tipedata apa saja
+let heroes: any = "Superman";
+heroes = 20
+heroes = []
+heroes = {}
+heroes = "luthfi"
